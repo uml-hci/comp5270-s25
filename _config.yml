@@ -1,8 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: COMP 5270 - HCI*
+description: A website for the Human-Computer Interaction class at UMass Lowell.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://uml-hci.github.io/comp5270-s25
 
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "COMP5270 on Blackboard":
+    - "https://uml.umassonline.net/ultra/courses/_62886_1/cl/outline"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
