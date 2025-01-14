@@ -8,15 +8,15 @@ nav_order: 1
 
 COMP 5270 - 201 (#12535) Human-Computer Interaction\
 SPRING 2025
-Tuesdays & Thursdays 12:30pm - 1:45pm, Olsen Hall TBD
+
+Tuesdays & Thursdays 12:30pm - 1:45pm\
+Olsen Hall 408
 
 <!--**While this note is still here, this syllabus is still being ACTIVELY edited and may change in major ways.**-->
 
 Course details and policies are always subject to change. Revisions will be announced in class with sufficient time for students to account for them.
 
-## Instructors
-
-### Instructor
+## Instructor
 
 **Prof. Samantha Reig (she/her)**\
 **Email**: sam_reig@uml.edu\
@@ -39,11 +39,12 @@ The purpose of this class is to ground students in the basics of how humans inte
 
 Upon successful completion of this course, students will demonstrate the ability to:
 
-1. Apply user-centered design processes in the ideation and implementation of novel systems
+1. Apply user-centered design processes in the ideation and implementation of novel systems.
 <!--2. Critically evaluate the quality of user information based on collection methodology.-->
 2. Develop and refine designs for new software systems that consider usability concerns from the outset.
 3. Compare the strengths and weaknesses of different HCI techniques for a given design problem.
 4. Discuss open challenges in the field of human-computer interaction, including ethical, social, and policy implications of new designs.
+5. Explain foundational theoretical HCI concepts using vocabulary from the field.
 
 ## Prerequisites
 
@@ -92,9 +93,9 @@ Your final grade will be based on the following components:
 
 | Component            | Individual or group                                 | Percentage |
 | :------------------- | :-------------------------------------------------- | :--------- |
-| Participation        | Individual                                          | 5%         |
-| Homework assignments | Individual                                          | 15%        |
-| Midterm              | Individual                                          | 30%        |
+| Participation        | Individual                                          | 10%        |
+| Homework assignments | Individual                                          | 20%        |
+| Midterm              | Individual                                          | 20%        |
 | Final project        | Group (with an individually-graded teamwork survey) | 50%        |
 | **Total**            | **Individual**                                      | **100%**   |
 
@@ -114,11 +115,7 @@ Letter grades will be assigned based on the number of points you earn (out of 10
 
 ### Participation
 
-Regular class attendance will be very much to your advantage. There will be material presented in class that is NOT included in the readings; you will only be able to obtain it by attending class. Also, there will be in-class exercises that will help you to understand and practice various techniques. Some of the midterm questions may be drawn from the in-class exercises. Finally, this class will incorporate a number of class discussions and chances to learn from fellow students. You will be expected to participate in discussions and exercises during class.
-
-Once the final project kicks off, please tell your teammates if you’ll be absent from class so that they can prepare appropriately for work sessions and other activities that we/they might be planning to do during class time. If you are sick, please take care of yourself, and do not come to class.
-
-Opportunities to participate outside of the class meetings themselves -- e.g., sharing observations/links related to the class in forums, attending lectures related to the class -- will likely arise throughout the semester, so keep an eye out for those.
+This is an interactive class; therefore and participating largely entails attending class and demonstrating engagement during discussions and activities. Opportunities to participate outside of the class meetings themselves -- e.g., sharing observations/links related to the class in forums, attending lectures related to the class -- will likely arise throughout the semester, so keep an eye out for those.
 
 ### Homework assignments
 
@@ -134,19 +131,23 @@ For your final project, you will design a prototype interface to address one or 
 
 The prototype should take into account the principles of HCI as well as your findings from the formative research activities you conduct for the interim deliverables. You must document how your final design incorporates knowledge from the class and from your formative research activities. The prototype does not have to be fully functional, but it needs to be interactive enough to convey the interface design to others. You may use prototyping methods and tools of your choice.
 
-The project will be evaluated primarily based upon (1) the degree to which the interface effectively takes into account the principles of HCI and findings from your formative research activities (interim deliverables) and (2) how well the interface conveys the design. Clear articulation of your thought process, both in writing and verbally, is a crucial aspect of designing for and engaging with end users and clients. Therefore, clarity of expression will also factor into the assessment of all written and presented project components. A more detailed rubric will be available in the final project description documentation. The breakdown of the grading for the final project is as follows:
-
-| Component            | Points |
-| :------------------- | :----- |
-| Interim deliverables | 20     |
-| Final report         | 15     |
-| Final presentation   | 10     |
-| Teammate assessment  | 5      |
-| **Total**            | **50** |
+The project will be evaluated primarily based upon (1) the degree to which the interface effectively takes into account the principles of HCI and findings from your formative research activities (interim deliverables) and (2) how well the interface conveys the design. Clear articulation of your thought process, both in writing and verbally, is a crucial aspect of designing for and engaging with end users and clients. Therefore, clarity of expression will also factor into the assessment of all written and presented project components. A more detailed rubric will be available in the final project description documentation.
 
 By default, all members of a group will receive the same grade on the interim deliverables, final report, and final presentation portions of the project (worth 45 points, or 90% of the project grade, all together). The teammate survey will be graded individually and used in determining how many of the remaining 5 points (10% of the project grade) each person will receive. I reserve the right to further adjust individual project grades in extreme cases, i.e., if there is a consensus among teammates that a group member went truly above and beyond or that someone really did not pull their weight. More details about the project will be available shortly after the start of the semester.
 
 ## Course policies
+
+### Attendance
+
+Regular attendance is one of the most important contributors to student success. You are expected to attend all class meetings, and you will be asked to sign in. Attendance will be factored into your participation grade.
+
+If you need to miss class because of an extenuating circumstance (e.g., illness, an emergency, a religious holiday), please communicate with me as far in advance as possible. Similarly, if I need to miss class, I will communicate with you about it as far in advance as possible with information about how, if at all, the schedule might change as a result.
+
+By default, there is no virtual component to this course; you are expected to attend in person. This is subject to change.
+
+If you are sick, please take care of yourself, and do not come to class.
+
+Students who have taken COMP 5280 may not resubmit work done for 5280, even where assignments have similar or identical components. The instructor will be checking for this. Violations of this policy will result in a grade of zero.
 
 ### Academic integrity
 
@@ -178,7 +179,9 @@ Class meetings will be recorded using Echo360 and posted to Blackboard. If you m
 
 ### Late submissions
 
-All assignments are due at 11:59pm Eastern Time on the day of the deadline unless otherwise specified. Deadlines in this course are structured to teach and reinforce specific concepts at specific times, help you make gradual and iterative progress on your final project, and balance out my grading load. I expect you to turn all of your work in on time, and it’s in your best interests to do so. If there are circumstances that prevent you from being able to turn in an assignment on time, contact me as soon as possible.
+All assignments are due at 11:59pm Eastern Time on the day of the deadline unless otherwise specified. Deadlines in this course are structured to teach and reinforce specific concepts at specific times, help you make gradual and iterative progress on your final project, and balance out my grading load. I expect you to turn all of your work in on time, and it’s in your best interest to do so.
+
+UMass Lowell students have a lot going on, and sometimes “life happens”. If you need more time on an assignment and you (1) explain your reason well, (2) communicate with me about it at least a few days ahead of the deadline, and (3) have not made a habit of asking for extensions, I will do my best to work with you. Work that is submitted late without prior approval will receive a grade penalty of 5% per day late.
 
 ### Regrades
 
