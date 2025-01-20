@@ -139,7 +139,7 @@ By default, all members of a group will receive the same grade on the interim de
 
 ### Attendance
 
-Regular attendance is one of the most important contributors to student success. You are expected to attend all class meetings, and you will be asked to sign in. Attendance will be factored into your participation grade.
+Regular attendance is one of the most important contributors to student success. You are expected to attend all class meetings (including guest lectures and when there is no lecture, i.e., for project work sessions), and you will be asked to sign in. Attendance will be factored into your participation grade.
 
 If you need to miss class because of an extenuating circumstance (e.g., illness, an emergency, a religious holiday), please communicate with me as far in advance as possible. Similarly, if I need to miss class, I will communicate with you about it as far in advance as possible with information about how, if at all, the schedule might change as a result.
 
