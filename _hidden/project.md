@@ -9,6 +9,18 @@ has_children: true
 
 WORK IN PROGRESS
 
+NEW DELIVERABLES: THIS ALL MUST BE UPDATED BASED ON WHAT IS IN THE CALENDAR.
+
+- PITCH PRESENTATION - SHOULD INCLUDE PRELIMINARY RESEARCH
+- PROPOSAL
+- AFFINITY DIAGRAM FROM NEEDFINDING RESEARCH
+- STORYBOARDS
+- LOFI PROTOTYPE
+- UPDATE PRESENTATION
+- TEAMMATE SURVEY
+- FINAL PAPER
+- FINAL PRES
+
 Important dates:
 
 - Kickoff and team formation (detailed description and rubric available): Tuesday, February 27
@@ -56,6 +68,8 @@ Overall, the arc of your project goes like this:
 ## Grading
 
 The project will be evaluated primarily based upon (1) the degree to which the interface effectively takes into account the principles of HCI and findings from your formative research activities (interim deliverables) and (2) how well the interface conveys the design. Clear articulation of your thought process, both in writing and verbally, is a crucial aspect of designing for and engaging with end users and clients. Therefore, clarity of expression will also factor into the assessment of all written and presented project components. The breakdown of the grading for the final project is as follows:
+
+UPDATE BASED ON THIS: https://docs.google.com/spreadsheets/d/1BZ389wfZyqSZ722mvAUd_rLS0E5hAa9g1CYhWK8WiIw/edit?gid=555917934#gid=555917934
 
 | Component            | Points |
 | :------------------- | :----- |

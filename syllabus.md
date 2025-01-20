@@ -94,9 +94,9 @@ Your final grade will be based on the following components:
 | Component            | Individual or group                                 | Percentage |
 | :------------------- | :-------------------------------------------------- | :--------- |
 | Participation        | Individual                                          | 10%        |
-| Homework assignments | Individual                                          | 20%        |
-| Midterm              | Individual                                          | 20%        |
-| Final project        | Group (with an individually-graded teamwork survey) | 50%        |
+| Homework assignments | Individual                                          | 15%        |
+| Exams                | Individual                                          | 35%        |
+| Project              | Group (with an individually-graded teamwork survey) | 40%        |
 | **Total**            | **Individual**                                      | **100%**   |
 
 Letter grades will be assigned based on the number of points you earn (out of 100):
@@ -119,11 +119,11 @@ This is an interactive class; therefore and participating largely entails attend
 
 ### Homework assignments
 
-There will be a handful of individual homework assignments throughout the semester. These assignments will allow you to practice core user-centered research skills such as wireframing, heuristic evaluation, and UI critiques prior to starting the group project. There will be an individual reflection homework assignment toward the end of the course. There will be a student survey at the beginning of the course, which will be graded for completion as part of the overall assignment grade.
+There will be a small handful of individual homework assignments throughout the semester. These assignments will allow you to practice core user-centered research skills outside the group project. There will be a student survey at the beginning of the course, which will be graded for completion as part of the overall assignment grade.
 
-### Midterm
+### Exams
 
-The midterm will be given in class. It will focus on everything we’ve covered up to that point. There will be multiple choice “right or wrong” answers that assess your knowledge of the technical content covered in lectures and readings as well as open-ended questions that allow you to apply what you’ve learned.
+There will be two exams given in class. There will be multiple choice “right or wrong” answers that assess your knowledge of the technical content covered in lectures and readings as well as open-ended questions that allow you to apply what you’ve learned. These exams are meant to ensure that you know some important basics of HCI. They will not be designed to trick you. If you attend class regularly and know the concepts taught during the lectures, then you will be able to do well on the exams.
 
 ### Final project
 
