@@ -24,7 +24,7 @@ Do not pick the same interface that you presented on during the Hall of Fame & S
 
 * Your assignment must be typed. It should not exceed 2 pages using Times New Roman 12pt font, single-spaced, with 1 inch margins (or an equivalent format that amounts to the same length) including images.
 * You must include images for everything that you discuss. It's fine to use the same image if it addresses more than one of your comments. For example: If you write about a single-page portfolio website and comment on different parts of the page (like the navigation, search bar, and scrolling), then one image may be fine. If you write about a social media platform and critique the login page, the friends list, and the messaging service, then you will almost certainly need multiple images.
-* As per the syllabus policy, any use of ChatGPT or similar tools must be disclosed. Any use of AI that does not align with the syllabus policy will result in a zero.
+* As per the syllabus policy, any use of ChatGPT or similar tools for copy editing must be disclosed.
 
 ### Grading
 
