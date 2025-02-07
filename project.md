@@ -134,7 +134,7 @@ Your report should address the following questions:
 
 ### Storyboards
 
-Submit two storyboards depicting how your design could meet the needs you identified during your formative research. Your storyboards should follow the scenario -> idea -> outcome that we discuss in class. You should sketch your storyboard, or use simple 2D images - do not use photos or AI-generated images. Check the [resources](/resources.html) page for advice for creating storyboards as you work on this deliverable.
+Submit two storyboards depicting how your design could meet the needs you identified during your formative research. Your storyboards should follow the scenario -> idea -> outcome that we discuss in class. You should sketch your storyboard, or use simple 2D images - do not use photos or AI-generated images. Check the [resources page]({{site.url}}/resources.html) page for advice for creating storyboards as you work on this deliverable.
 
 ## Progress update presentation
 
