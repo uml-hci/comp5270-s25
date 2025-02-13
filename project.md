@@ -19,7 +19,7 @@ Important dates:
 
 ## Overview
 
-For your final project, you will design a prototype interface to address one or multiple needs of a specific user group. This will give you an opportunity to apply the principles of HCI and user research techniques to a specific application area. Interim deliverables, completed with your final project teammates, will be the building blocks for your final project. You will work in teams of 3-4 for this project.
+For your final project, you will design a prototype interface to address one or multiple needs of a specific user group. This will give you an opportunity to apply the principles of HCI and user research techniques to a specific application area. Interim deliverables, completed with your final project teammates, will be the building blocks for your final project. You will work in teams of 2-4 for this project. You will need to be careful to ensure that the amount of work you set out for yourselves, and the division of tasks, is appropriate for the size of your team (i.e., if you have 4 people, you should have a good reason for having a larger team).
 
 The prototype should take into account the principles of HCI as well as your findings from the formative research activities you conduct for the interim deliverables. You must document how your final design incorporates knowledge from the class and from your formative research activities. The prototype does not have to be fully functional, but it needs to be interactive enough to convey the interface design to others. You may use prototyping methods and tools of your choice.
 
@@ -187,7 +187,7 @@ Your report will be graded based on the below criteria. For categories worth mor
 
 #### In-class on Thursday, April 24 and Tuesday, April 29
 
-Your team will give a `10-minute talk` about your project on either April 24 or April 29. I will assign presentation slots randomly soon after teams are formed.
+Your team will give a `15-minute talk` about your project on either April 24 or April 29. I will assign presentation slots randomly soon after teams are formed.
 
 Your presentation should describe the motivation for your work, showcase the final prototype, review what you created during each stage, and describe your evaluations and refinement. You should also be sure to explain how you incorporated feedback (from your classmates, instructors, and participants) along the way, and highlight the most important takeaways from the project. You should also explain what your next steps would be if you were to continue this work.
 
