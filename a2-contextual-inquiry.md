@@ -18,9 +18,11 @@ In this assignment, you'll use the method of contextual inquiry to develop an in
 
 ### Scenario
 
-**You are a product manager for a startup focused on productivity tools for students. Observe and interview students as they schedule tasks for themselves, study for an exam, plan their days, schedule meetings with teammates, make joint decisions with collaborators, work at their jobs, and/or perform another task related to work and/or productivity.**
+**You are a product manager for a startup focused on productivity tools for students. Observe and interview a student as they schedule tasks for themselves, study for an exam, plan their days, schedule meetings with teammates, make joint decisions with collaborators, work at their jobs, and/or perform another task related to work and/or productivity.**
 
-Conduct a contextual inquiry in which you interact with at one participant in one or more settings of your choice. You should select settings that are representative of the context of the prompt, accessible to you, and, ideally, interesting to you. Here are some examples of research questions you might ask and ways you might consider approaching them:
+Conduct a contextual inquiry in which you interact with one participant in one or more settings of your choice. You should select settings that are representative of the context of the prompt, accessible to you, and, ideally, interesting to you. If your setting has multiple students interacting/working together as part of the tasks you're studying, it's fine (and will likely be informative) to interview multiple people.
+
+The scope of the scenario above is broad, and you'll need to narrow it down by coming up with a specific research question. Here are some examples of research questions you might ask and ways you might consider approaching them:
 
 | Resarch question                                          | Scenario                                                                                                                                                                                                                                         |
 | :-------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,7 +45,7 @@ Plan to spend 30-60 minutes on the interview.
 
 ### What you'll turn in
 
-Your final submission should take the form of a single 1-2 page report (one document for the both of you) of your contextual inquiry exercise. The report should address the following:
+Your final submission should take the form of a single 1-2 page report (just a single document) of your contextual inquiry exercise. The report should address the following:
 
 - What was your research question?
 - Who did you interview?
@@ -52,7 +54,7 @@ Your final submission should take the form of a single 1-2 page report (one docu
 - What questions did you ask? (You don't have include your whole protocol. A summary is fine.)
 - What did you learn from your interviews? (You are not expected to use any particular analysis method here, since we haven't covered that yet. Just describe your initial impressions.)
 - Did your understanding of the user's needs and/or goals change after the contextual inquiry? If so, how?
-- Short reflection: How did it go? Did anything about the process surprise you? What might you do differenty next time?
+- Short reflection: How did it go? Did anything about the process surprise you? What might you do differently next time?
 
 The report should be written in prose (not bullets) and read like a very short research paper. You do not have to answer each question in order, but you will be graded on whether and how effectively each one is addressed. You may want to include images, excerpts from your interview protocol and/or quotes from participants to help tell the story of your research.
 
@@ -68,7 +70,6 @@ The evaluation criteria are:
 - Does your report describe the user group/characterization you focused on and why you picked that group or type of user?
 - Does your report describe how you introduced the interview and obtained informed consent?
 - Does your report describe the context of the interview in enough detail that a naive reader can imagine it?
-
 - Does your report describe your findings?
 - Is the report well-organized and easy to follow?
 
