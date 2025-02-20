@@ -1,11 +1,11 @@
 ---
-title: Assignment 1
+title: Assignment 2
 layout: default
 nav_order: 2
 parent: Assignments
 ---
 
-# Assignment 1: Contextual Inquiry
+# Assignment 2: Contextual Inquiry
 
 Important dates:
 
@@ -15,8 +15,6 @@ Important dates:
 ### Overview
 
 In this assignment, you'll use the method of contextual inquiry to develop an initial understanding of a user and their tasks in a specific domain. You will lean on the skills you'll develop and practice for this assignment during the project.
-
-This assignment will be done in **pairs**.
 
 ### Scenario
 
