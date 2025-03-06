@@ -10,7 +10,7 @@ parent: Assignments
 Important dates:
 
 - Assigned: Thursday, February 20th
-- Due: Friday, March 7th
+- Due: Monday, March 17th
 
 ### Overview
 
