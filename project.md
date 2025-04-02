@@ -152,7 +152,7 @@ By the time you get to the submission of this deliverable, you should have compl
 
 ### Lo-Fi Prototype
 
-Bring your lo-fi prototype to class. Make sure it's packaged in such a way that it won't fall apart and you won't lose pieces -- e.g., pieces of paper in a fastened plastic folder, physical props in a box. We will have a prototyoing workshop in which Prof. Reig and your classmates will test your prototype and give you feedback. If you prepare effectively for this workshop session, you can use it to conduct one or both of your usability evaluations. If you are not prepared with an usability study protocol by the time this workshop comes around, then you can use it to get preliminary feedback, and you will need to conduct the complete evaluation with 2 participants on your own time.
+Bring your lo-fi prototype to class. (Update 4/2: Because we had the prototyping workshop on 4/1, you do not need to bring your prototype to class again on 4/8. You may want to show your video, or part of it, in your update presentation.) Make sure it's packaged in such a way that it won't fall apart and you won't lose pieces -- e.g., pieces of paper in a fastened plastic folder, physical props in a box. We will have a prototyoing workshop in which Prof. Reig and your classmates will test your prototype and give you feedback. If you prepare effectively for this workshop session, you can use it to conduct one or both of your usability evaluations. If you are not prepared with an usability study protocol by the time this workshop comes around, then you can use it to get preliminary feedback, and you will need to conduct the complete evaluation with 2 participants on your own time.
 
 After class, submit a video walkthrough of your prototype to Blackboard. The video should:
 
@@ -161,6 +161,8 @@ After class, submit a video walkthrough of your prototype to Blackboard. The vid
 - Show a user (probably one of your team members) walking through all of the interactions and tasks that you intend for your prototype to support
 - Demonstrate everything clearly (check for segments that are too fast, too blurry, etc.)
 - Be no longer than 3 minutes
+
+Brief report: When you upload your prototype video to Blackboard, provide a 1-2 paragraph written update. You should keep this brief -- use it to help you communicate your progress, address anything the video didn't make time for, and/or explain changes you are planning to make to the prototype when you move to hi-fi. The main part of this deliverable is showing, not telling, so you should consider the report supplementary to the video, in-class prototyping workshop, and update presentation.
 
 ## Final deliverables
 
