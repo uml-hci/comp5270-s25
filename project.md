@@ -193,7 +193,7 @@ Your team will give a `15-minute talk` about your project on either April 24 or 
 
 Your presentation should describe the motivation for your work, showcase the final prototype, review what you created during each stage, and describe your evaluations and refinement. You should also be sure to explain how you incorporated feedback (from your classmates, instructors, and participants) along the way, and highlight the most important takeaways from the project. You should also explain what your next steps would be if you were to continue this work.
 
-Because we will have a number of presentations to get through over two class periods and leave ample time for Q&A, your presentation must be no longer than 10 minutes. Points will be deducted for presentations that are too long.
+Because we will have a number of presentations to get through over two class periods and leave ample time for Q&A, your presentation must be no longer than 15 minutes. Points will be deducted for presentations that are too long.
 
 ### Teammate evaluation
 
